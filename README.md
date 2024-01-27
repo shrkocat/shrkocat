@@ -19,7 +19,7 @@ I'm @shrkocat, a computer science student. Welcome to my corner of the GitHub un
 Here are a few highlights from my GitHub repositories:
 
 - 🌟 [Project 1](https://github.com/shrkocat/temperature-python.git): Temperature Converter.
-- 🌟 [Project 2](https://github.com/shrkocat/conversion-cpp.git): Conversion Program.
+- 🌟 [Project 2](https://github.com/shrkocat/operation-cpp): Operation Program.
 - 🌟 [Project 3](https://github.com/shrkocat/lethalcompany-html-css.git): Website.
 
 Explore my repositories for more exciting projects and contributions!
