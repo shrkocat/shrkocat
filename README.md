@@ -5,9 +5,8 @@ I'm @shrkocat, a computer science student. Welcome to my corner of the GitHub un
 ## About Me
 
 - 🌐 Exploring the realms of code.
-- 💻 Focus on Javascript.
+- 💻 Focus on Python (PyTorch, Tensorflow).
 - 📚 Lifelong learner, always diving into new technologies and methodologies.
-- 🎓 Currently studying Javascript then Java.
 - 💡 Open to collaboration and learning from the amazing GitHub community.
 
 ## Communication
