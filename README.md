@@ -13,6 +13,17 @@ I'm Enrique, a computer science student. Welcome to my corner of the GitHub univ
 
 - 📫 Let's connect! Feel free to reach out to me via Gmail.
 
+## 🛠️ Tech Stack
+
+**Languages**
+- Python, Java
+
+**Frameworks & Libraries**
+- PyTorch, TensorFlow, Spring Boot, Ultralytics (YOLOv8, YOLOv12), Streamlit, Roboflow, Matplotlib
+
+**Tools & Platforms**
+- Docker, Google Colab, Jupyter Notebook, FAISS, Gradio
+
 ## Projects
 
 Here are a few highlights from my GitHub repositories:
