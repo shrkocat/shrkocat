@@ -1,6 +1,6 @@
 # 👋 Hello World! 
 
-I'm @shrkocat, a computer science student. Welcome to my corner of the GitHub universe! 🚀
+I'm Enrique, a computer science student. Welcome to my corner of the GitHub universe! 🚀
 
 ## About Me
 
