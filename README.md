@@ -24,13 +24,6 @@ I'm Enrique, a computer science student. Welcome to my corner of the GitHub univ
 **Tools & Platforms**
 - Docker, Google Colab, Jupyter Notebook, FAISS, Gradio
 
-## Projects
-
-Here are a few highlights from my GitHub repositories:
-
-- 🌟 [Project 1](https://github.com/shrkocat/CSS125L-Packet-Tracer-Interpreter.git): Packet Tracer Interpreter.
-- 🌟 [Project 2](https://github.com/shrkocat/CSS181-2-Welding-YOLOv12.git): Predicting Weld Features using YOLOv12.
-
 Explore my repositories for more exciting projects and contributions!
 
 Thanks for stopping by, and happy coding! 🖥️
