@@ -1,19 +1,19 @@
-# 👋 Hello World! 
+# Hello World! 
 
 I'm Enrique, a computer science student. Welcome to my corner of the GitHub universe! 🚀
 
 ## About Me
 
-- 🌐 Exploring the realms of code.
-- 💻 Focus on Python (PyTorch, Tensorflow).
-- 📚 Lifelong learner, always diving into new technologies and methodologies.
-- 💡 Open to collaboration and learning from the amazing GitHub community.
+- Exploring the realms of code.
+- Focus on Python (PyTorch, Tensorflow).
+- Lifelong learner, always diving into new technologies and methodologies.
+- Open to collaboration and learning from the amazing GitHub community.
 
 ## Communication
 
-- 📫 Let's connect! Feel free to reach out to me via Gmail.
+- Let's connect! Feel free to reach out to me via Gmail.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 - Python, Java
@@ -26,7 +26,7 @@ I'm Enrique, a computer science student. Welcome to my corner of the GitHub univ
 
 Explore my repositories for more exciting projects and contributions!
 
-Thanks for stopping by, and happy coding! 🖥️
+Thanks for stopping by, and happy coding!
 
 <!---
 shrkocat/shrkocat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
