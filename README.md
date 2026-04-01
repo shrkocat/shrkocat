@@ -11,7 +11,7 @@ I'm Enrique, a computer science student. A third-year student studying at Mapua 
 
 ## Communication
 
-- Let's connect! Feel free to reach out to me via Gmail.
+- Let's connect! Feel free to reach out to me via Gmail (rocksanteco@gmail.com or essanteco@mymail.mapua.edu.ph).
 
 ## Tech Stack
 
