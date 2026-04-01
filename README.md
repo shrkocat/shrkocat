@@ -1,6 +1,6 @@
 # Hello World! 
 
-I'm Enrique, a computer science student. Welcome to my corner of the GitHub universe!
+I'm Enrique, a computer science student. A third-year student studying at Mapua University!
 
 ## About Me
 
@@ -29,6 +29,6 @@ Explore my repositories for more exciting projects and contributions!
 Thanks for stopping by, and happy coding!
 
 <!---
-shrkocat/shrkocat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+shrkocat/shrkocat is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
